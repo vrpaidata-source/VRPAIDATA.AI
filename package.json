@@ -1,0 +1,13 @@
+{
+  "name": "vrpaidata-ai",
+  "version": "1.0.0",
+  "description": "VRPAIDATA AI Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "openai": "^5.0.0"
+  }
+}
